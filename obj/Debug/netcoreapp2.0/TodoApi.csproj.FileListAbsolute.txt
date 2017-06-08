@@ -1,0 +1,12 @@
+c:\Users\Nobuaki\github\TodoApi\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+c:\Users\Nobuaki\github\TodoApi\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+c:\Users\Nobuaki\github\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+c:\Users\Nobuaki\github\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+c:\Users\Nobuaki\github\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+c:\Users\Nobuaki\github\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+c:\Users\Nobuaki\github\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+c:\Users\Nobuaki\github\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+c:\Users\Nobuaki\github\TodoApi\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\Users\Nobuaki\github\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+c:\Users\Nobuaki\github\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+c:\Users\Nobuaki\github\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
