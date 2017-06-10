@@ -2,10 +2,11 @@ using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using TodoApi.Models;
 using System.Linq;
+using TodoApi.Attributes;
 
 namespace TodoApi.Controllers
 {
-    [Route("api/[controller]")]
+    [RestController]
     public class TodoController : Controller
     {
         private readonly TodoContext _context;
